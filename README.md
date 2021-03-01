@@ -1,2 +1,2 @@
-# COMP397-W2021-Lesson6a 
-Demo project for Week 6
+# COMP397-W2021-Lesson7a 
+Demo project for Week 7
